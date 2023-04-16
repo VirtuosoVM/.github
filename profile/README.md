@@ -2,4 +2,4 @@
 
 > A virtual machine host for Discord powered by VMware.
 
-No affiliation or endorsement is to be implied from *Discord Inc.* or *VMware Inc.*.
+This project is not affiliated with or endorsed by *Discord Inc.* nor *VMware Inc.* and exists as a 3rd-party tool. 
